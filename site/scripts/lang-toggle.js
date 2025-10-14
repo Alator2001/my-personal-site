@@ -2,7 +2,7 @@
 document.addEventListener("DOMContentLoaded", () => {
   // БАЗОВЫЙ ПРЕФИКС ТВОЕГО САЙТА (GH Pages)
   // Если изменишь репозиторий/путь — подправь одну строку ниже.
-  const BASE = "/devops-lab-startsev/coursework/";
+  const BASE = "/my-personal-site/";
 
   // Находим сам селектор языка в шапке
   const langSelect = document.querySelector(".md-header .md-select");

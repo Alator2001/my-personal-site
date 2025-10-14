@@ -1,7 +1,7 @@
 site_name: "🚀"
 site_description: "Let's get acquainted"
 site_author: "Daniil Startsev"
-site_url: "https://ghulqul.github.io/daniilstar"
+site_url: "https://Alator2001.github.io/my-personal-site/"
 
 nav:
   - index.md
@@ -82,10 +82,10 @@ extra:
   # абсолютные пути с завершающим слэшем (и локально, и на GH Pages ок)
   alternate:
     - name: English
-      link: /devops-lab-startsev/coursework/
+      link: /my-personal-site/
       lang: en
     - name: Русский
-      link: /devops-lab-startsev/coursework/ru/
+      link: /devops-lab-startsev/ru/
       lang: ru
 
 extra_css:
