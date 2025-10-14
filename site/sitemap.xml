@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://ghulqul.github.io/daniilstar/</loc>
+        <lastmod>2025-10-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ghulqul.github.io/daniilstar/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://ghulqul.github.io/daniilstar/ru/"/>
+    </url>
+    <url>
+        <loc>https://ghulqul.github.io/daniilstar/about/</loc>
+        <lastmod>2025-10-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ghulqul.github.io/daniilstar/about/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://ghulqul.github.io/daniilstar/ru/about/"/>
+    </url>
+    <url>
+        <loc>https://ghulqul.github.io/daniilstar/contacts/</loc>
+        <lastmod>2025-10-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ghulqul.github.io/daniilstar/contacts/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://ghulqul.github.io/daniilstar/ru/contacts/"/>
+    </url>
+    <url>
+        <loc>https://ghulqul.github.io/daniilstar/projects/</loc>
+        <lastmod>2025-10-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ghulqul.github.io/daniilstar/projects/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://ghulqul.github.io/daniilstar/ru/projects/"/>
+    </url>
+    <url>
+        <loc>https://ghulqul.github.io/daniilstar/ru/</loc>
+        <lastmod>2025-10-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://ghulqul.github.io/daniilstar/ru/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ghulqul.github.io/daniilstar/"/>
+    </url>
+    <url>
+        <loc>https://ghulqul.github.io/daniilstar/ru/about/</loc>
+        <lastmod>2025-10-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://ghulqul.github.io/daniilstar/ru/about/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ghulqul.github.io/daniilstar/about/"/>
+    </url>
+    <url>
+        <loc>https://ghulqul.github.io/daniilstar/ru/contacts/</loc>
+        <lastmod>2025-10-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://ghulqul.github.io/daniilstar/ru/contacts/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ghulqul.github.io/daniilstar/contacts/"/>
+    </url>
+    <url>
+        <loc>https://ghulqul.github.io/daniilstar/ru/projects/</loc>
+        <lastmod>2025-10-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://ghulqul.github.io/daniilstar/ru/projects/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ghulqul.github.io/daniilstar/projects/"/>
+    </url>
+</urlset>
