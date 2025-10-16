@@ -1,18 +1,14 @@
 // Однокнопочный переключатель языка EN <-> RU
 document.addEventListener("DOMContentLoaded", () => {
-  // БАЗОВЫЙ ПРЕФИКС ТВОЕГО САЙТА (GH Pages)
-  // Если изменишь репозиторий/путь — подправь одну строку ниже.
+
   const BASE = "/my-personal-site/";
 
   // Находим сам селектор языка в шапке
   const langSelect = document.querySelector(".md-header .md-select");
   if (!langSelect) return;
 
-  // Хэлпер: построить путь для альтернативной локали, сохранив текущую страницу
   function toggleLangPath(pathname) {
-    // Нормализуем: убеждаемся, что начинаем с BASE
     if (!pathname.startsWith(BASE)) return pathname; // на всякий случай
-
     const afterBase = pathname.slice(BASE.length); // часть пути внутри сайта
 
     // Если мы на RU → идём на EN (удаляем ведущий "ru/")
@@ -25,7 +21,7 @@ document.addEventListener("DOMContentLoaded", () => {
     return BASE + "ru/" + afterBase;
   }
 
-  // Клик по селектору — просто переключаем язык
+  // Клик по селектору
   langSelect.addEventListener("click", (e) => {
     e.preventDefault();
     e.stopPropagation();
